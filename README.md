@@ -14,10 +14,10 @@ Your program should display the standard information header (part 1 of lab01) an
 
 The following is an example of what a valid run of the program should look like:
 
-Assignment##
-Lastname, Firstname
-A########
-Description of the program
+Assignment##<br/>
+Lastname, Firstname<br/>
+A########<br/>
+Description of the program<br/>
 
 Enter a 4 digit 24h time: 0005
 0005 is 12:05 am
