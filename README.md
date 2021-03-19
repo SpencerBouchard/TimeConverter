@@ -19,17 +19,17 @@ Lastname, Firstname<br/>
 A########<br/>
 Description of the program<br/>
 
-Enter a 4 digit 24h time: 0005
-0005 is 12:05 am
-Press enter to end...
+Enter a 4 digit 24h time: 0005<br/>
+0005 is 12:05 am<br/>
+Press enter to end...<br/>
 
-And for something invalid:
+And for something invalid:<br/>
 
-Assignment##
-Lastname, Firstname
-A########
-Description of the program
+Assignment##<br/>
+Lastname, Firstname<br/>
+A########<br/>
+Description of the program<br/>
 
-Enter a 4 digit 24h time: 3:05
-Error: invalid input 3:05
-Press enter to end...
+Enter a 4 digit 24h time: 3:05<br/>
+Error: invalid input 3:05<br/>
+Press enter to end...<br/>
